@@ -1,0 +1,9 @@
+llama-index==0.9.48
+langchain==0.1.9
+langchain-community==0.0.24
+streamlit==1.32.0
+pypdf==4.0.1
+faiss-cpu==1.7.4 
+llama-index==0.12.30
+transformers==4.38.2
+torch==2.2.1
