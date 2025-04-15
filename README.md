@@ -77,4 +77,8 @@ scholargenie/
 
 - LlamaIndex team for the amazing document processing framework
 - Ollama team for making Llama3 easily accessible
+<<<<<<< HEAD
 - HuggingFace for the embedding model 
+=======
+- HuggingFace for the embedding model 
+>>>>>>> origin/main
